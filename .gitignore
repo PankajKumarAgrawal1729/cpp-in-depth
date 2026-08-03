@@ -1,1 +1,26 @@
-.vscode
+# Compiled binaries
+hello
+operators/task1
+operators/task2
+operators/task3
+operators/task4
+operators/Challenges/challenge1
+operators/Challenges/challenge2
+operators/Challenges/challenge3
+operators/Challenges/challenge4
+Primitives Data types/casting
+Primitives Data types/data
+Primitives Data types/modifier
+Primitives Data types/mystring
+Primitives Data types/userinput
+Primitives Data types/Challenges/challenge1
+Primitives Data types/Challenges/challenge2
+Primitives Data types/Challenges/challenge3
+
+# Build artifacts
+*.o
+*.out
+*.dSYM/
+
+# VS Code
+.vscode/
