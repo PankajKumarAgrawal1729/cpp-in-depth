@@ -21,6 +21,8 @@ Primitives Data types/Challenges/challenge3
 *.o
 *.out
 *.dSYM/
+a.out
+**/a.out
 
 # VS Code
 .vscode/
